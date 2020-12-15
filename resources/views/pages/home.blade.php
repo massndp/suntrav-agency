@@ -5,7 +5,7 @@
     <h1>
       Explore Explore The Beautiful World
       <br />
-      As Easy One Click
+      As Easy One Click 
     </h1>
 
     <p class="mt-3">
