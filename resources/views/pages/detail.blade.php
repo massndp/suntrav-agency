@@ -10,7 +10,7 @@
           <nav>
             <ol class="breadcrumb">
               <li class="breadcrumb-item">Paket Travel</li>
-              <li class="breadcrumb-item active">Details</li>
+              <li class="breadcrumb-item active">Detail</li>
             </ol>
           </nav>
         </div>

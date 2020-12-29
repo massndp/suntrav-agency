@@ -17,6 +17,13 @@
             {{session('delete')}}
         </div>
         @endif
+        @if (session('sukses'))
+        <div class="alert alert-success alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <i class="fa fa-check-circle"></i> 
+            {{session('sukses')}}
+        </div>
+        @endif
 
         <div class="table-responsive">
             <table class="table table-hover table-bordered" id="travel_package">
