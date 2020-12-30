@@ -3,6 +3,10 @@ body {
   color: #071c4d;
 }
 
+.navbar {
+  padding: 0.4rem 1rem;
+}
+
 .navbar-brand img {
   max-height: 40px;
 }
